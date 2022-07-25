@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcelo
 
-- 🌱 Atualmente estou aprendendo Front-end
+- 🌱 Atualmente estou aprendendo Csharp e JavaScript
 
 
 <div align="center">
